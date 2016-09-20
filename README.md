@@ -1,8 +1,4 @@
 
 #Git教程
 
--feature-A
-
--feature-B
-
--Feature-A-a
+分享一篇很好的git教程，很适合新手入门：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
